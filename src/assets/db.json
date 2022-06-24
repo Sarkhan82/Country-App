@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "author": "From Scratch",
+      "content": "      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1621530288602,
+      "id": 1
+    },
+    {
+      "author": "Bill Gates",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1621536029778,
+      "id": 2
+    },
+    {
+      "author": "Mark Zuckerberg",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. ",
+      "date": 1621536056135,
+      "id": 3
+    },
+    {
+      "author": "TEST",
+      "content": "azzzzazazazdfsdfgdfpgfd^f)qfdgqfdgjhfdq^gfedqtgrqetregfdqjgqfdjgfdgfdjgfd^qjgj^dqfg^jfedqgtjqertjgqrngfdngfdqngfdngdfqngfd^ngfnedgnqergnrgrnêgnqregn^reqgnrqegn^qregn^rqegnreqn^gqren^gren^qgn^rqegn^rqegn^regn^rqeg^nqre",
+      "date": 1649767328816,
+      "id": 4
+    },
+    {
+      "author": "Dadou",
+      "content": "fdgfddzffdgsdffdgsdfgdfgdqgfgfgfdgfdgfdfsdgfggfdsghghgfhqgfgfgfgdgsdfgfsgfdgfdgfdgfdsgfdgfdgfgqerhhffdgfdgfdqgfdgfdsgdfgfdgfsdgsfgfsdgsfdgfdgwcv",
+      "date": 1649768943399,
+      "id": 5
+    },
+    {
+      "author": "",
+      "content": "fdgfddzffdgsdffdgsdfgdfgdqgfgfgfdgfdgfdfsdgfggfdsghghgfhqgfgfgfgdgsdfgfsgfdgfdgfdgfdsgfdgfdgfgqerhhffdgfdgfdqgfdgfdsgdfgfdgfsdgsfgfsdgsfdgfdgwcvrgfdgdfgdfgqdgfgfgfqdgfdqgfgfqgfgqsfdgfqdg",
+      "date": 1649768956843,
+      "id": 6
+    },
+    {
+      "author": "FRO SFR",
+      "content": "ezerzrgfdgdfgvdsfsdfsddfsdfd",
+      "date": 1649769664108,
+      "updatedDate": 1649774830706,
+      "id": 11
+    }
+  ]
+}
